@@ -1,0 +1,12 @@
+name: acd
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.9.10
+  - numpy
+  - pandas
+  - matplotlib
+  - openpyxl
+  - scikit-image
+  - seaborn
