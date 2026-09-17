@@ -1,0 +1,9 @@
+.DS_Store
+.vscode/
+
+# Generated tutorial results and local Python environments
+Week*/outputs/*
+!Week*/outputs/.gitkeep
+__pycache__/
+*.py[cod]
+.venv/
